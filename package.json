@@ -1,0 +1,26 @@
+{
+  "name": "practice_automaiton_desktop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Trinhb1510873/practice_automaiton_desktop.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Trinhb1510873/practice_automaiton_desktop/issues"
+  },
+  "homepage": "https://github.com/Trinhb1510873/practice_automaiton_desktop#readme",
+  "devDependencies": {
+    "electron-chromedriver": "^19.0.0",
+    "selenium-webdriver": "^4.3.1"
+  },
+  "dependencies": {
+    "chromedriver": "^96.0.0"
+  }
+}
